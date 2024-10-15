@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lugares increibles</string>
+    <string name="network_error">Ups! Algo malo ha sucedido</string>
+    <string name="refresh">Cargar más</string>
+    <string name="authorLabel">"Autor: "</string>
+    <string name="widthLabel">"Largo: "</string>
+    <string name="heightLabel">"Ancho: "</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Amazing places</string>
+    <string name="network_error">Ups! Something wrong happened</string>
+    <string name="refresh">Load more</string>
+    <string name="authorLabel">"Author: "</string>
+    <string name="widthLabel">"Width: "</string>
+    <string name="heightLabel">"Height: "</string>
+</resources>
